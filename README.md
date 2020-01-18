@@ -1,5 +1,7 @@
 # IcanhazdadjokeDotCom
 
+[![Continous Integration](https://gitlab.com/project-alice-assistant/skills/skill_IcanhazdadjokeDotCom/badges/master/pipeline.svg)](https://gitlab.com/project-alice-assistant/skills/skill_IcanhazdadjokeDotCom/pipelines/latest)
+
 ### Download
 
 ##### > WGET method
