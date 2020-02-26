@@ -1,6 +1,7 @@
 {
 	"name": "IcanhazdadjokeDotCom",
 	"version": "1.0.22",
+	"icon": "battle-net",
 	"author": "Psychokiller1888",
 	"maintainers": ["maxbachmann", "Jierka"],
 	"desc": "Get a random dad joke on demand!",
