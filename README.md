@@ -2,14 +2,6 @@
 
 [![Continous Integration](https://gitlab.com/project-alice-assistant/skills/skill_IcanhazdadjokeDotCom/badges/master/pipeline.svg)](https://gitlab.com/project-alice-assistant/skills/skill_IcanhazdadjokeDotCom/pipelines/latest)
 
-### Download
-
-##### > WGET method
-```bash
-wget http://skills.projectalice.ch/IcanhazdadjokeDotCom \
--O ~/ProjectAlice/system/skillInstallTickets/IcanhazdadjokeDotCom.install
-```
-
 ### Description
 Get a random dad joke on demand
 
