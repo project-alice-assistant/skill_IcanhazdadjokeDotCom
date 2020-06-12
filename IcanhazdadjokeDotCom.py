@@ -17,7 +17,8 @@ class IcanhazdadjokeDotCom(AliceSkill):
 		headers = {
 			'Accept'    : 'text/plain',
 			'User-Agent': 'Project Alice',
-			'From'      : 'projectalice@projectalice.ch'
+			'From'      : 'projectalice@projectalice.ch',
+			'accept-encoding': 'gzip'
 		}
 
 		response = requests.get(url, headers=headers)
