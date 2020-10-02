@@ -1,12 +1,9 @@
 {
 	"skill": "IcanhazdadjokeDotCom",
-	"icon": "drink",
-	"description": "Get some random dad jokes",
 	"slotTypes": [],
 	"intents": [
 		{
 			"name": "TellAJoke",
-			"description": "User asks for a joke",
 			"enabledByDefault": true,
 			"utterances": [
 				"another joke",
